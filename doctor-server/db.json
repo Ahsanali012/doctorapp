@@ -46,17 +46,6 @@
     }
   ],
   "appointments": [
-    {
-      "id": "7e5e",
-      "doctorId": 2,
-      "patientName": "Ahsan Ali",
-      "timeSlot": "Monday - 11:00 AM",
-      "date": "2025-04-16T00:13:45.828Z",
-      "status": "confirmed",
-      "medicalReason": "sfgsfgsd",
-      "medications": "sdfsdfdsfdsf",
-      "allergies": "dsfdsfdsfdsf",
-      "medicalHistory": "dsfdsfsdfds"
-    }
+  
   ]
 }
