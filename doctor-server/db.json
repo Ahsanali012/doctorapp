@@ -8,17 +8,17 @@
         {
           "day": "Monday",
           "time": "09:00 AM",
-          "status": "booked"
+          "status": "available"
         },
         {
           "day": "Tuesday",
           "time": "02:00 PM",
-          "status": "booked"
+          "status": "available"
         },
         {
           "day": "Wednesday",
           "time": "10:30 AM",
-          "status": "booked"
+          "status": "available"
         }
       ]
     },
@@ -30,12 +30,12 @@
         {
           "day": "Monday",
           "time": "11:00 AM",
-          "status": "booked"
+          "status": "available"
         },
         {
           "day": "Thursday",
           "time": "03:30 PM",
-          "status": "booked"
+          "status": "available"
         },
         {
           "day": "Friday",
