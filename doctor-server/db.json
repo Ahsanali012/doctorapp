@@ -1,0 +1,62 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. Sarah Johnson",
+      "specialization": "Cardiologist",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": "09:00 AM",
+          "status": "booked"
+        },
+        {
+          "day": "Tuesday",
+          "time": "02:00 PM",
+          "status": "booked"
+        },
+        {
+          "day": "Wednesday",
+          "time": "10:30 AM",
+          "status": "booked"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Dr. Michael Chen",
+      "specialization": "Neurologist",
+      "availability": [
+        {
+          "day": "Monday",
+          "time": "11:00 AM",
+          "status": "booked"
+        },
+        {
+          "day": "Thursday",
+          "time": "03:30 PM",
+          "status": "booked"
+        },
+        {
+          "day": "Friday",
+          "time": "09:30 AM",
+          "status": "available"
+        }
+      ]
+    }
+  ],
+  "appointments": [
+    {
+      "id": "7e5e",
+      "doctorId": 2,
+      "patientName": "Ahsan Ali",
+      "timeSlot": "Monday - 11:00 AM",
+      "date": "2025-04-16T00:13:45.828Z",
+      "status": "confirmed",
+      "medicalReason": "sfgsfgsd",
+      "medications": "sdfsdfdsfdsf",
+      "allergies": "dsfdsfdsfdsf",
+      "medicalHistory": "dsfdsfsdfds"
+    }
+  ]
+}
